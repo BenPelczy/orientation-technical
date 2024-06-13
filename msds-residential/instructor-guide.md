@@ -5,7 +5,7 @@ This document contains the inital plan (bottom) and the as enacted plan
 ### Day 1 - 2 hours - Alumni Hall big room
 1. Intro - name / goal / philsophy to learning
 2. activity 1 - data collection - hardware survey
-3. Me explain Purpose and Task
+3. You explain Purpose and Task
 4. activity 2 - humans - read code review for humans and discuss with table
 5. BREAK
 6. You explain criteria - how to know when you get it, at the grad school level
