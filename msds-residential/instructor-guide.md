@@ -8,7 +8,7 @@ This document contains the inital plan (bottom) and the as enacted plan
 3. Me explain Purpose and Task
 4. activity 2 - humans - read code review for humans and discuss with table
 5. BREAK
-6. Me explain criteria - how to know when you get it, at the grad school level
+6. You explain criteria - how to know when you get it, at the grad school level
 7. activity 3 - read the badges - ask questions and understand what is going on
 8. wrap up - tour of resources on the github page - assign homework
      * HW: make a plan to finish the badges by start of classes
